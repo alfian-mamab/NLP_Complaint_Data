@@ -1,5 +1,4 @@
-# NLP_Complaint_Data
-##  Automation of Complaint Categorization 
+# Automation of Complaint Categorization (NLP) 
 
 ---
 
