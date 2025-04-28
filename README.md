@@ -10,4 +10,4 @@ This study explores the automation of complaint categorization in Indonesia’s 
 
 ---
 
-[Result Details](https://github.com/alfian-mamab/NLP_Complaint_Data/blob/main/Autocategorization%20of%20Complaint%20Data%20(NLP).pdf)
+[Result Details](https://drive.google.com/file/d/1g8CuYuq9qP_VmSaSmAsbkJXegQhpkkWQ/view?usp=sharing)
