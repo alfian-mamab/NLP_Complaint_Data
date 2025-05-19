@@ -10,4 +10,4 @@ This study explores the automation of complaint categorization in Indonesia’s 
 
 ---
 
-## [Result Details](https://drive.google.com/file/d/1g8CuYuq9qP_VmSaSmAsbkJXegQhpkkWQ/view?usp=sharing)
+## [See Result Details](https://drive.google.com/file/d/1g8CuYuq9qP_VmSaSmAsbkJXegQhpkkWQ/view?usp=sharing)
